@@ -24,11 +24,6 @@ A benchmark-driven routing system developed for the AMD Developer Hackathon.
 
 [View repository](https://github.com/antoinemawad/juggernaut-router)
 
-### Actevat
-A multilingual website and technical publication platform focused on AI automation, operational systems, and software engineering.
-
-[View live website](https://antoinemouawad.com)
-
 ### Lyricit
 A multilingual application that identifies songs from remembered, spoken, or incomplete lyrics.
 
