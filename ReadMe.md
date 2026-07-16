@@ -15,15 +15,6 @@ Built a multimodal AI system that evaluates damage claims using images, claim de
 
 [View repository](https://github.com/antoinemawad/hackerrank-orchestrate-june26)
 
-### Juggernaut Router
-A benchmark-driven routing system developed for the AMD Developer Hackathon.
-
-- Designed model-routing and fallback logic
-- Built reproducible evaluations and production-readiness checks
-- Focused on latency, reliability, cost, and decision quality
-
-[View repository](https://github.com/antoinemawad/juggernaut-router)
-
 ### Lyricit
 A multilingual application that identifies songs from remembered, spoken, or incomplete lyrics.
 
