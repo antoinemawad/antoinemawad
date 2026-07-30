@@ -1,5 +1,9 @@
 # Antoine Mouawad
 
+<p align="center">
+  <img src="./assets/antoine-mouawad.jpg" alt="Antoine Mouawad" width="360">
+</p>
+
 AI Automation and Operational Systems Engineer building practical AI tools, data workflows, integrations, and internal business systems.
 
 I focus on turning fragmented operational processes into reliable software using Python, APIs, automation platforms, databases, and AI models.
