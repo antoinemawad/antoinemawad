@@ -6,6 +6,11 @@ I focus on turning fragmented operational processes into reliable software using
 
 ## Selected Projects
 
+### AGECODE - Lead Intake
+Build a AI automation for lead intake that takes the information of a lead and profile picture of their face then analyzes it using AI then send then personalized skincare assessment on their WhatsApp and email address. The clinic receives a treatment plan that the lead can collect from the clinic.
+
+[View video explenation]([https://github.com/antoinemawad/hackerrank-orchestrate-june26](https://www.loom.com/share/1bad38870cba4f31b40a6bfc8a348bf1))
+
 ### Multimodal Damage Claim Verification
 Built a multimodal AI system that evaluates damage claims using images, claim descriptions, user history, and evidence requirements.
 
